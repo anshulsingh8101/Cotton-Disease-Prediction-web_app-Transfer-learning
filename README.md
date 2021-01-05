@@ -6,4 +6,4 @@ We see that the inceptionv3 is better in terms of validation accuracy eventhough
 A web app has been also created for deploying the model on.
 
 
-![alt text](http://url/to/https://github.com/anshulsingh8101/Cotton-Disease-Prediction/blob/main/chrome_pCqCIcvlj9.png)
+![alt text](https://github.com/anshulsingh8101/Cotton-Disease-Prediction/blob/main/chrome_pCqCIcvlj9.png)
