@@ -11,3 +11,4 @@ A web app has been also created for deploying the model on.
 
 ![alt text](https://github.com/anshulsingh8101/Cotton-Disease-Prediction/blob/main/b.png)
 "# Cotton-Disease-Prediction-web_app-Transfer-learning" 
+"# Cotton-Disease-Prediction-web_app-Transfer" 
